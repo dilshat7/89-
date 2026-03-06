@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Куртка мужская зимняя Terra Pro",
+    "price": "599000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "мужской",
+    "category": "Куртки мужские",
+    "description": "Теплая зимняя куртка из качественных материалов"
+  },
+  {
+    "title": "Джинсы мужские классические",
+    "price": "299000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "мужской",
+    "category": "Джинсы",
+    "description": "Классические джинсы прямого кроя"
+  },
+  {
+    "title": "Рубашка мужская деловая",
+    "price": "189000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "мужской",
+    "category": "Рубашки",
+    "description": "Деловая рубашка из хлопка"
+  },
+  {
+    "title": "Брюки мужские офисные",
+    "price": "249000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "мужской",
+    "category": "Брюки",
+    "description": "Офисные брюки классического кроя"
+  },
+  {
+    "title": "Свитер мужской шерстяной",
+    "price": "329000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "мужской",
+    "category": "Свитера",
+    "description": "Теплый свитер из шерсти"
+  },
+  {
+    "title": "Куртка женская весенняя",
+    "price": "549000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "женский",
+    "category": "Куртки женские",
+    "description": "Легкая весенняя куртка"
+  },
+  {
+    "title": "Джинсы женские skinny",
+    "price": "279000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "женский",
+    "category": "Джинсы",
+    "description": "Облегающие джинсы skinny fit"
+  },
+  {
+    "title": "Блузка женская шелковая",
+    "price": "219000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "женский",
+    "category": "Блузки",
+    "description": "Элегантная блузка из шелка"
+  },
+  {
+    "title": "Юбка женская классическая",
+    "price": "189000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "женский",
+    "category": "Юбки",
+    "description": "Классическая юбка миди"
+  },
+  {
+    "title": "Платье женское вечернее",
+    "price": "689000",
+    "image_url": "",
+    "product_url": "",
+    "gender": "женский",
+    "category": "Платья",
+    "description": "Элегантное вечернее платье"
+  }
+]
